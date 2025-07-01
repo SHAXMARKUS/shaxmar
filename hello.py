@@ -6,3 +6,5 @@ print('МАРКУС/ШАХМАР - ПРОРАБОТАЛ ГИТ/ГИТХАБ')
 print('new')
 print('hello')
 print('новое')
+
+input()
