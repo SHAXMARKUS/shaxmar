@@ -7,4 +7,5 @@ print('new')
 print('hello')
 print('новое')
 
-input()
+input('dfsd')
+#kdfbgnmdbnmfdn,
